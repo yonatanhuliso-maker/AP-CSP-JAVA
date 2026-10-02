@@ -5,8 +5,8 @@
 import java.util.*;
 
 public class Easter{
-    public static void main(string[] args){
-        Scanner scanner = new Scanner(system.in);
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
         int y = scanner.nextInt();
 
         int a = y % 19;
